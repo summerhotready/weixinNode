@@ -1,0 +1,30 @@
+*{
+    margin:0;
+    padding:0;
+}
+html,body{
+    width: 100%;
+    height:100%;
+    -webkit-tap-highlight-color:transparent;}
+#content{
+    height: 100%;
+    width: 100%;
+    overflow:hidden;
+    -webkit-overflow-scrolling:touch;}
+#ad_border{
+    height: 20%;
+    width: 100%;
+    background-color:#f0a6ac;
+}
+#content_view{
+    height: 80%;
+    width: 100%;
+}
+/*title*/
+.page{height: 100%}
+.page__hd{padding:40px;background-color: #f9f2f4}
+.page__bd{padding:0;background-color: #f2dede;}
+.page__title{text-align:left;font-size:20px;font-weight:400}
+.page__desc{margin-top:5px;color:#888;text-align:left;font-size:14px}
+
+
