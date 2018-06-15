@@ -1,0 +1,10 @@
+{
+  "token":"emma2018",
+  "appID":"wxf7e9caf7ae2674b3",
+  "appScrect":"b63c346270d2b729c6c6fab14564bb04",
+  "apiDomain":"https://api.weixin.qq.com/",
+  "apiURL":{
+    "accessTokenApi":"%scgi-bin/token?grant_type=client_credential&appid=%s&secret=%s",
+    "createMenu":"%scgi-bin/menu/create?access_token=%s"
+  }
+}
